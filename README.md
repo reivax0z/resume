@@ -14,12 +14,14 @@ _Full Stack Software Engineer_
 > Melbourne & Sydney, Australia
 
 _Full Stack Software Engineer Consultant_
+
 Projects developed for **ANZ Banking** and **ING Direct**
 
 ### PwC Australia | Jan 2015 - Oct 2015
 > Melbourne, Australia
 
 _Java Software Engineer Consultant_
+
 Projects developed for **Jemena Gas Services**
 
 ### Amundi Asset Management | Oct 2011 - Nov 2013
