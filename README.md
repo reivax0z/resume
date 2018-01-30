@@ -1,6 +1,5 @@
 # Xavier CARON
 > Software Engineer | Full Stack | AWS Certified
-___
 
 ## Experience
 
@@ -22,6 +21,8 @@ Projects developed for *Jemena Gas Services*
 ### Amundi Asset Management | Oct 2011 - Nov 2013
 _Java Software Engineering Consultant_
 
+___
+
 ## Education
 
 ### Master of Information Systems | 2014
@@ -33,6 +34,8 @@ _The University of Nice, France_
 ### Year Abroad Program (Erasmus) | 2009 - 2010
 _Trinity College Dublin, Ireland_
 
+___
+
 ## Certifications
 
 ### AWS Certified Developer - Associate | 2017
@@ -43,6 +46,8 @@ _License 221591035OCPJSE6P_
 
 ### Oracle Certified Associate, Java SE 5/SE 6 | 2012
 _License 221591035OCAJSE56_
+
+___
 
 ## Publications
 
