@@ -36,26 +36,26 @@ ___
 ## Education
 
 ### Master of Information Systems | 2014
-_The University of Melbourne, Australia_
+_The University of Melbourne, Australia_ - GPA 80% - First Class Honours
 
 ### Master of Engineering (Computer Science) | 2006 - 2011
-_The University of Nice, France_
+_The University of Nice, France_ - GPA 15/20 - Top 5%
 
 ### Year Abroad Program (Erasmus) | 2009 - 2010
-_Trinity College Dublin, Ireland_
+_Trinity College Dublin, Ireland_ - GPA 71% - First Class Honours
 
 ___
 
 ## Certifications
 
 ### AWS Certified Developer - Associate | 2017
-_License 6HCVYQF112F4Q53W_
+[_License 6HCVYQF112F4Q53W_](https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2017-12-05&ci=AWS00357292)
 
 ### Oracle Certified Professional, Java SE 6 Programmer | 2013
-_License 221591035OCPJSE6P_
+[_License 221591035OCPJSE6P_](https://www.youracclaim.com/badges/f2fbd783-f4c7-4cbb-8804-96fe2cdffa61/linked_in_profile)
 
 ### Oracle Certified Associate, Java SE 5/SE 6 | 2012
-_License 221591035OCAJSE56_
+[_License 221591035OCAJSE56_](https://www.youracclaim.com/badges/28f4f951-fb0f-4c0b-a151-ac6396777f99/linked_in_profile)
 
 ___
 
