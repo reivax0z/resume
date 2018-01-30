@@ -1,22 +1,21 @@
 # Xavier CARON
-> Software Engineer | Full Stack | AWS Certified
+> **Software Engineer | Full Stack | AWS Certified**
+> Sydney, Australia
 
 ## Experience
 
 ### SiteMinder | Jan 2017 - Now
 _Full Stack Software Engineer_
 
-### Odecee | Oct 2015 - Jan 2017
+### Odecee, A Cognizant Digital Business | Oct 2015 - Jan 2017
 _Full Stack Software Engineering Consultant_
 
-Projects developed for:
-* *ING Direct*
-* *ANZ Banking*
+Projects developed for **ANZ Banking** and **ING Direct**
 
-### PWC Australia | Jan 2015 - Oct 2015
+### PwC Australia | Jan 2015 - Oct 2015
 _Java Software Engineer Consultant_
 
-Projects developed for *Jemena Gas Services*
+Projects developed for **Jemena Gas Services**
 
 ### Amundi Asset Management | Oct 2011 - Nov 2013
 _Java Software Engineering Consultant_
