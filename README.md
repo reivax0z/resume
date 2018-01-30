@@ -7,20 +7,24 @@
 
 ### SiteMinder | Jan 2017 - Now
 > Sydney, Australia
+
 _Full Stack Software Engineer_
 
 ### Odecee, A Cognizant Digital Business | Oct 2015 - Jan 2017
 > Melbourne & Sydney, Australia
+
 _Full Stack Software Engineer Consultant_
 Projects developed for **ANZ Banking** and **ING Direct**
 
 ### PwC Australia | Jan 2015 - Oct 2015
 > Melbourne, Australia
+
 _Java Software Engineer Consultant_
 Projects developed for **Jemena Gas Services**
 
 ### Amundi Asset Management | Oct 2011 - Nov 2013
 > Paris, France
+
 _Java Software Engineer Consultant_
 
 ___
