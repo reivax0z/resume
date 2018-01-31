@@ -1,6 +1,6 @@
 # Xavier CARON
 ```
-Software Engineer | Full Stack | AWS Certified
+Software Engineer | 5+ Years Exp. | Full Stack | AWS Certified
 ```
 
 > Sydney, Australia
