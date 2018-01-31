@@ -64,3 +64,16 @@ ___
 ### Master's Thesis | 2016
 _The Internet of Things (IoT) and its impact on individual privacy: An Australian perspective_
 [Computer Law & Security Review, Volume 32, Issue 1, February 2016, Pages 4-15](https://doi.org/10.1016/j.clsr.2015.12.001)
+
+___
+
+## Tech Stack
+
+| Type          | Technologies Used                                                       |
+| ------------- |-------------------------------------------------------------------------|
+| Back-end      | Java JEE, Groovy, NodeJS, Web Services (REST & SOAP), Spring, Hibernate |
+| Front-end     | Javascript, Polymer Web Components, Bootstrap, HTML5 & CSS3             |
+| AWS           | Lambda, Kinesis, S3, DynamoDB, ELB, EC2                                 |
+| Tools         | Jira, Git, Maven, Gradle, Gulp, Docker, Helm, IntelliJ                  |
+| Database      | Sybase, MySQL, PostgreSQL, DynamoDB, MongoDB, Cassandra                 |
+| Server        | JOnAS, Websphere, Tomcat, Jetty, Glassfish, JBoss                       |
