@@ -88,16 +88,16 @@ _NodeJS, Typescript, AWS SDK, Bunyan, Mocha, Chai, Sinon, Gulp, Git_
 ### Algorithms performance app | [source 1](https://github.com/reivax0z/algo-impl-front) | [source 2](https://github.com/reivax0z/algo-impl-back) 
 _Java/JEE, SpringBoot, Spring MVC, Swagger, Groovy, Protractor, Mocha, Polymer, D3, MongoDB, Jetty server, Gradle, Git_
 
-### Shopping checkout system app | [source]( https://github.com/reivax0z/checkout-system)
+### Shopping-cart checkout app | [source]( https://github.com/reivax0z/checkout-system)
 _Java/JEE, Spring, Spring MVC, FasterXml, AngularJS, Swagger, Bootstrap, Jetty server, Gradle, Git_
 
-### Melbourne Uni Tennis Club (MUTC) website | [website](http://www.tennis.musa.net.au/)
+### Melbourne Uni Tennis Club (MUTC) website | [source](https://github.com/reivax0z/mutc)
 _Javascript, jQuery, Facebook Graph SDK, Bootstrap, HTML5, CSS3, Git_
 
 ### How-to app | [source](https://github.com/reivax0z/howto-tech)
 _Java/JEE, Spring, Spring MVC, Hibernate, Hibernate Search, String Template, Bootstrap, PostgreSQL, Jetty server, Maven, Heroku, Git_
 
-### Address book management app | [source](https://github.com/reivax0z/address-book)
+### Address book app | [source](https://github.com/reivax0z/address-book)
 _Java/JEE, JSP, Servlet, Javascript, JSON, JUnit, Bootstrap, PostgreSQL, Hibernate, Jetty server, Maven, Heroku, Git_
 
 ### Travel tips and blog | [source](https://github.com/reivax0z/visit-web-site)
