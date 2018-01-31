@@ -1,5 +1,7 @@
 # Xavier CARON
-> **Software Engineer | Full Stack | AWS Certified**
+```
+Software Engineer | Full Stack | AWS Certified
+```
 
 > Sydney, Australia
 
@@ -61,7 +63,7 @@ ___
 
 ## Publications
 
-### Master's Thesis | 2016
+### Computer Law & Security Review | 2016
 _The Internet of Things (IoT) and its impact on individual privacy: An Australian perspective_
 [Computer Law & Security Review, Volume 32, Issue 1, February 2016, Pages 4-15](https://doi.org/10.1016/j.clsr.2015.12.001)
 
