@@ -1,5 +1,5 @@
 # Xavier CARON
-> **Software Engineer | 5+ Years Exp. | MIS | OCPJP | AWS Certified | Published Research Paper**
+> **Software Engineer | 5+ Years Exp. | MIS | OCPJP | AWS Certified | Published Research Paper Author**
 
 > Sydney, Australia
 
