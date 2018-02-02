@@ -1,5 +1,5 @@
 # Xavier CARON
-> **Software Engineer | 5+ Years Exp. | Full Stack | AWS Certified**
+> **Software Engineer | 5+ Years Exp. | MIS | OCPJP | AWS Certified**
 
 > Sydney, Australia
 
