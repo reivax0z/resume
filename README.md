@@ -1,5 +1,5 @@
 # Xavier CARON
-> **Software Engineer | 5+ Years Exp. | MIS | OCPJP | AWS Certified | Published Research Paper Author**
+> **Software Engineer | 5+ Years Exp. | MIS | Certified Scrum Master | OCPJP | AWS Certified | Published Research Paper Author**
 
 > Sydney, Australia
 
@@ -43,6 +43,9 @@ _Trinity College Dublin, Ireland_ - GPA 71% - First Class Honours
 ___
 
 ## Certifications
+
+### Professional Scrum Master (PSM I) | 2018
+[_License_](https://www.scrum.org/user/321030)
 
 ### AWS Certified Developer - Associate | 2017
 [_License 6HCVYQF112F4Q53W_](https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2017-12-05&ci=AWS00357292)
