@@ -1,5 +1,5 @@
-# Xavier CARON
-> **Software Engineer | 5+ Years Exp. | MIS | Certified Scrum Master | OCPJP | AWS Certified | Published Research Paper Author**
+# Xavier Caron
+> **Software Engineer | 5+ Years Exp. | MEng(CS), MIS | Certified Scrum Master, Oracle Java Programmer, AWS Developer | Published Research Paper Author**
 
 > Sydney, Australia
 
@@ -8,7 +8,7 @@ ___
 ## Experience
 
 ### Full Stack Software Engineer
-#### SiteMinder | Jan 2017 - Now
+#### SiteMinder | Jan 2017 - Present
 > Sydney, Australia
 
 ### Full Stack Software Engineer Consultant
@@ -68,14 +68,14 @@ ___
 
 ## Tech Stack
 
-| Type          | Technologies Used                                                       |
-| ------------- |-------------------------------------------------------------------------|
-| Back-end      | Java JEE, Groovy, NodeJS, Web Services (REST & SOAP), Spring, Hibernate |
-| Front-end     | Javascript, Polymer Web Components, Bootstrap, HTML5 & CSS3             |
-| AWS           | Lambda, Kinesis, S3, DynamoDB, ELB, EC2                                 |
-| Tools         | Jira, Git, Maven, Gradle, Gulp, Docker, Helm, IntelliJ                  |
-| Database      | Sybase, MySQL, PostgreSQL, DynamoDB, MongoDB, Cassandra                 |
-| Server        | JOnAS, Websphere, Tomcat, Jetty, Glassfish, JBoss                       |
+| Type          | Technologies                                                                     |
+| ------------- |----------------------------------------------------------------------------------|
+| Back-end      | Java JEE, Groovy, NodeJS, Web Services (REST & SOAP), Spring, Hibernate, GraphQL |
+| Front-end     | Javascript, Polymer Web Components, Bootstrap, HTML5 & CSS3                      |
+| AWS           | Lambda, Kinesis, S3, DynamoDB, RDS, ELB, EC2                                     |
+| Tools         | Jira, Git, Maven, Gradle, Gulp, Docker, Kubernetes, Helm, IntelliJ               |
+| Database      | Sybase, MySQL, PostgreSQL, DynamoDB, MongoDB, Cassandra                          |
+| Server        | JOnAS, Websphere, Tomcat, Jetty, Glassfish, JBoss                                |
 
 ___
 
