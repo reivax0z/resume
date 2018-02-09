@@ -7,7 +7,7 @@ ___
 
 ## Experience
 
-### Full Stack Software Engineer
+### Software Engineer
 #### SiteMinder | Jan 2017 - Present
 > Sydney, Australia
 
@@ -17,13 +17,13 @@ ___
 
 Projects developed for **ANZ Banking** and **ING Direct**
 
-### Java Software Engineer Consultant
+### Software Engineer Consultant
 #### PwC Australia | Jan 2015 - Oct 2015
 > Melbourne, Australia
 
 Projects developed for **Jemena Gas Services**
 
-### Java Software Engineer Consultant
+### Software Engineer Consultant
 #### Amundi Asset Management | Oct 2011 - Nov 2013
 > Paris, France
 
@@ -71,7 +71,7 @@ ___
 | Type          | Technologies                                                                     |
 | ------------- |----------------------------------------------------------------------------------|
 | Back-end      | Java JEE, Groovy, NodeJS, Web Services (REST & SOAP), Spring, Hibernate, GraphQL |
-| Front-end     | Javascript, Polymer Web Components, Bootstrap, HTML5 & CSS3                      |
+| Front-end     | Javascript, Polymer Web Components, AngularJS, Bootstrap, HTML5 & CSS3           |
 | AWS           | Lambda, Kinesis, S3, DynamoDB, RDS, ELB, EC2                                     |
 | Tools         | Jira, Git, Maven, Gradle, Gulp, Docker, Kubernetes, Helm, IntelliJ               |
 | Database      | Sybase, MySQL, PostgreSQL, DynamoDB, MongoDB, Cassandra                          |
