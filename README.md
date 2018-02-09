@@ -7,23 +7,23 @@ ___
 
 ## Experience
 
-### Software Engineer
+### Software Engineer | NodeJS, Groovy
 #### SiteMinder | Jan 2017 - Present
 > Sydney, Australia
 
-### Full Stack Software Engineer Consultant
+### Software Engineer Consultant | Full-Stack
 #### Odecee, A Cognizant Digital Business | Oct 2015 - Jan 2017
 > Melbourne & Sydney, Australia
 
 Projects developed for **ANZ Banking** and **ING Direct**
 
-### Software Engineer Consultant
+### Software Engineer Consultant | Java
 #### PwC Australia | Jan 2015 - Oct 2015
 > Melbourne, Australia
 
 Projects developed for **Jemena Gas Services**
 
-### Software Engineer Consultant
+### Software Engineer Consultant | Java
 #### Amundi Asset Management | Oct 2011 - Nov 2013
 > Paris, France
 
