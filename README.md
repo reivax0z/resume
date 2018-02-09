@@ -1,5 +1,5 @@
 # Xavier Caron
-> **Software Engineer | 5+ Years Exp. | MEng(CS), MIS | Certified Scrum Master, Oracle Java Programmer, AWS Developer | Published Research Paper Author**
+> **Software Engineer | 5+ Years Exp. | MEng(CS), MIS | PSM-I | OCPJP | AWS-CDA | Published Research Paper Author**
 
 > Sydney, Australia
 
