@@ -7,24 +7,24 @@ ___
 
 ## Experience
 
-### Software Engineer | NodeJS, Groovy
-#### SiteMinder | Jan 2017 - Present
+### SiteMinder | Jan 2017 - Present
+#### Software Engineer | Java, NodeJS
 > Sydney, Australia
 
-### Software Engineer Consultant | Full-Stack
-#### Odecee, A Cognizant Digital Business | Oct 2015 - Jan 2017
+### Odecee, A Cognizant Digital Business | Oct 2015 - Jan 2017
+#### Software Engineer Consultant | Full-Stack
 > Melbourne & Sydney, Australia
 
 Projects developed for **ANZ Banking** and **ING Direct**
 
-### Software Engineer Consultant | Java
-#### PwC Australia | Jan 2015 - Oct 2015
+### PwC Australia | Jan 2015 - Oct 2015
+#### Software Engineer Consultant | Java
 > Melbourne, Australia
 
 Projects developed for **Jemena Gas Services**
 
-### Software Engineer Consultant | Java
-#### Amundi Asset Management | Oct 2011 - Nov 2013
+### Amundi Asset Management | Oct 2011 - Nov 2013
+#### Software Engineer Consultant | Java
 > Paris, France
 
 ___
@@ -72,7 +72,7 @@ ___
 | ------------- |----------------------------------------------------------------------------------|
 | Back-end      | Java JEE, Groovy, NodeJS, Web Services (REST & SOAP), Spring, Hibernate, GraphQL |
 | Front-end     | Javascript, Polymer Web Components, AngularJS, Bootstrap, HTML5 & CSS3           |
-| AWS           | Lambda, Kinesis, S3, DynamoDB, RDS, ELB, EC2                                     |
+| AWS           | Lambda, Kinesis, S3, DynamoDB, RDS, ELB, EC2, EBS                                |
 | Tools         | Jira, Git, Maven, Gradle, Gulp, Docker, Kubernetes, Helm, IntelliJ               |
 | Database      | Sybase, MySQL, PostgreSQL, DynamoDB, MongoDB, Cassandra                          |
 | Server        | JOnAS, Websphere, Tomcat, Jetty, Glassfish, JBoss                                |
@@ -85,7 +85,7 @@ ___
 _NodeJS, Typescript, AWS SDK, Bunyan, Mocha, Chai, Sinon, Gulp, Git_
 
 ### Algorithms performance app | [source 1](https://github.com/reivax0z/algo-impl-front) | [source 2](https://github.com/reivax0z/algo-impl-back) 
-_Java/JEE, SpringBoot, Spring MVC, Swagger, Groovy, Protractor, Mocha, Polymer, D3, MongoDB, Jetty server, Gradle, Git_
+_Java/JEE, SpringBoot, Spring MVC, Swagger, Groovy, Protractor, Mocha, Polymer, D3, DynamoDB, S3, EBS, Tomcat server, Gradle, Gulp, Git_
 
 ### Online shopping checkout app | [source]( https://github.com/reivax0z/checkout-system)
 _Java/JEE, Spring, Spring MVC, FasterXml, AngularJS, Swagger, Bootstrap, Jetty server, Gradle, Git_
