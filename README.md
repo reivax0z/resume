@@ -1,9 +1,7 @@
 # Xavier Caron
 > **Software Engineer | 5+ Years Exp. | MEng(CS), MIS | Published Research Paper Author**
 
-> **Certified Scrum Master (PSMI) | Oracle Certified Java Programmer | AWS Certified Developer Associate**
-
-> Sydney, Australia
+> Certified Scrum Master (PSMI) | Oracle Certified Java Programmer | AWS Certified Developer Associate
 
 ___
 
