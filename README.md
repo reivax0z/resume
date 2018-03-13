@@ -1,5 +1,7 @@
 # Xavier Caron
-> **Software Engineer | 5+ Years Exp. | MEng(CS), MIS | PSM-I | OCPJP | AWS-CDA | Published Research Paper Author**
+> **Software Engineer | 5+ Years Exp. | MEng(CS), MIS | Published Research Paper Author**
+
+> ** Certified Scrum Master (PSMI) | Oracle Certified Java Programmer | AWS Certified Developer Associate**
 
 > Sydney, Australia
 
@@ -8,7 +10,7 @@ ___
 ## Experience
 
 ### SiteMinder | Jan 2017 - Present
-#### Software Engineer | Java, NodeJS
+#### Software Engineer | Java, Node.js
 > Sydney, Australia
 
 ### Odecee, A Cognizant Digital Business | Oct 2015 - Jan 2017
@@ -70,7 +72,7 @@ ___
 
 | Type          | Technologies                                                                     |
 | ------------- |----------------------------------------------------------------------------------|
-| Back-end      | Java JEE, Groovy, NodeJS, Web Services (REST & SOAP), Spring, Hibernate, GraphQL |
+| Back-end      | Java JEE, Groovy, Node.js, Web Services (REST & SOAP), Spring, Hibernate, GraphQL |
 | Front-end     | Javascript, Polymer Web Components, AngularJS, Bootstrap, HTML5 & CSS3           |
 | AWS           | Lambda, Kinesis, S3, DynamoDB, RDS, ELB, EC2, EBS                                |
 | Tools         | Jira, Git, Maven, Gradle, Gulp, Docker, Kubernetes, Helm, IntelliJ               |
@@ -82,7 +84,7 @@ ___
 ## Personal Projects
 
 ### AWS state machine | [source](https://github.com/reivax0z/aws-state-machine)
-_NodeJS, Typescript, AWS SDK, Bunyan, Mocha, Chai, Sinon, Gulp, Git_
+_Node.js, Typescript, AWS SDK, Bunyan, Mocha, Chai, Sinon, Gulp, Git_
 
 ### Algorithms performance app | [source 1](https://github.com/reivax0z/algo-impl-front) | [source 2](https://github.com/reivax0z/algo-impl-back) 
 _Java/JEE, SpringBoot, Spring MVC, Swagger, Groovy, Protractor, Mocha, Polymer, D3, DynamoDB, S3, EBS, Tomcat server, Gradle, Gulp, Git_
