@@ -7,7 +7,13 @@ ___
 
 ## Experience
 
-### SiteMinder | Jan 2017 - Present
+### Versent | Apr 2018 - Present
+#### Senior Software Engineer Consultant | Java, Node.js
+> Sydney, Australia
+
+Engagements: **Telstra**
+
+### SiteMinder | Jan 2017 - Apr 2018
 #### Software Engineer | Java, Node.js
 > Sydney, Australia
 
@@ -15,13 +21,13 @@ ___
 #### Software Engineer Consultant | Full-Stack
 > Melbourne & Sydney, Australia
 
-Projects developed for **ANZ Banking** and **ING Direct**
+Engagements: **ANZ Banking** and **ING Direct**
 
 ### PwC Australia | Jan 2015 - Oct 2015
 #### Software Engineer Consultant | Java
 > Melbourne, Australia
 
-Projects developed for **Jemena Gas Services**
+Engagements: **Jemena Gas Services**
 
 ### Amundi Asset Management | Oct 2011 - Nov 2013
 #### Software Engineer Consultant | Java
@@ -68,14 +74,14 @@ ___
 
 ## Tech Stack
 
-| Type          | Technologies                                                                     |
-| ------------- |----------------------------------------------------------------------------------|
+| Type          | Technologies                                                                      |
+| ------------- |-----------------------------------------------------------------------------------|
 | Back-end      | Java JEE, Groovy, Node.js, Web Services (REST & SOAP), Spring, Hibernate, GraphQL |
-| Front-end     | Javascript, Polymer Web Components, AngularJS, Bootstrap, HTML5 & CSS3           |
-| AWS           | Lambda, Kinesis, S3, DynamoDB, RDS, ELB, EC2, EBS                                |
-| Tools         | Jira, Git, Maven, Gradle, Gulp, Docker, Kubernetes, Helm, IntelliJ               |
-| Database      | Sybase, MySQL, PostgreSQL, DynamoDB, MongoDB, Cassandra                          |
-| Server        | JOnAS, Websphere, Tomcat, Jetty, Glassfish, JBoss                                |
+| Front-end     | Javascript, Polymer Web Components, AngularJS, Bootstrap, HTML5 & CSS3            |
+| AWS           | Lambda, Kinesis, S3, DynamoDB, RDS, ELB, EC2, EBS                                 |
+| Tools         | Jira, Git, Maven, Gradle, Gulp, Docker, Kubernetes, Helm, IntelliJ                |
+| Database      | Sybase, MySQL, PostgreSQL, DynamoDB, MongoDB, Cassandra                           |
+| Server        | JOnAS, Websphere, Tomcat, Jetty, Glassfish, JBoss                                 |
 
 ___
 
