@@ -1,37 +1,62 @@
 # Xavier Caron
-> **Software Engineer | 5+ Years Exp. | MEng(CS), MIS | Published Research Paper Author**
-
-> Certified Scrum Master (PSMI) | Oracle Certified Java Programmer | AWS Certified Developer Associate
+> **API & Microservices | Software Engineer | AWS Certified | MEng(CS) & MIS**
 
 ___
 
 ## Experience
 
 ### Versent | Apr 2018 - Present
-#### Senior Software Engineer Consultant | Java, Node.js
+#### Senior Software Engineer Consultant
 > Sydney, Australia
 
-Engagements: **Telstra**
+**API & Microservices Engineer**
+
+Engagements:
+- Telstra: FBS
+- Telstra: RPM
 
 ### SiteMinder | Jan 2017 - Apr 2018
-#### Software Engineer | Java, Node.js
+#### Software Engineer
 > Sydney, Australia
 
+**Back-end Engineer (Groovy + Node.js)**
+
+Projects:
+- Leonardo PMS
+- Reservation Emails
+- User Mgmt API
+- Channel Sync API
+
 ### Odecee, A Cognizant Digital Business | Oct 2015 - Jan 2017
-#### Software Engineer Consultant | Full-Stack
+#### Software Engineer Consultant
 > Melbourne & Sydney, Australia
 
-Engagements: **ANZ Banking** and **ING Direct**
+**Full-stack Engineer (Java + Polymer)**
+
+Engagements:
+- ANZ Banking: SBOS
+- ING Direct: Switches App
 
 ### PwC Australia | Jan 2015 - Oct 2015
-#### Software Engineer Consultant | Java
+#### Software Engineer Consultant
 > Melbourne, Australia
 
-Engagements: **Jemena Gas Services**
+**Back-end Engineer (Java)**
+
+Engagements:
+- Jemena: MSI
+- Jemena: Portal
 
 ### Amundi Asset Management | Oct 2011 - Nov 2013
-#### Software Engineer Consultant | Java
+#### Software Engineer Consultant
 > Paris, France
+
+**Back-end Engineer (Java)**
+
+Projects:
+- Order Mgmt System
+- Constraint rules tool
+- Stress testing tool
 
 ___
 
@@ -74,21 +99,24 @@ ___
 
 ## Tech Stack
 
-| Type          | Technologies                                                                      |
-| ------------- |-----------------------------------------------------------------------------------|
-| Back-end      | Java JEE, Groovy, Node.js, Web Services (REST & SOAP), Spring, Hibernate, GraphQL |
-| Front-end     | Javascript, Polymer Web Components, AngularJS, Bootstrap, HTML5 & CSS3            |
-| AWS           | Lambda, Kinesis, S3, DynamoDB, RDS, ELB, EC2, EBS                                 |
-| Tools         | Jira, Git, Maven, Gradle, Gulp, Docker, Kubernetes, Helm, IntelliJ                |
-| Database      | Sybase, MySQL, PostgreSQL, DynamoDB, MongoDB, Cassandra                           |
-| Server        | JOnAS, Websphere, Tomcat, Jetty, Glassfish, JBoss                                 |
+| Type          | Technologies                                                                          |
+| ------------- |---------------------------------------------------------------------------------------|
+| Back-end      | Java JEE, Groovy, Node.js, Web Services (REST & SOAP), Spring, Hibernate, GraphQL     |
+| Front-end     | Javascript, Polymer Web Components, AngularJS, Bootstrap, HTML5 & CSS3                |
+| AWS           | Lambda, Kinesis, S3, DynamoDB, RDS, ELB, EC2, Cloudformation, Codebuild, Codepipeline |
+| Tools         | Jira, Git, Maven, Gradle, Gulp, Docker, Kubernetes, Helm, IntelliJ                    |
+| Database      | Sybase, MySQL, PostgreSQL, DynamoDB, MongoDB, Cassandra                               |
+| Server        | JOnAS, Websphere, Tomcat, Jetty, Glassfish, JBoss                                     |
 
 ___
 
 ## Personal Projects
 
+### Email client | [source](https://github.com/reivax0z/email-clietn)
+_Kotlin, SpringBoot, Spring MVC, SES, Swagger, Tomcat Server, Gradle, Git_
+
 ### AWS state machine | [source](https://github.com/reivax0z/aws-state-machine)
-_Node.js, Typescript, AWS SDK, Bunyan, Mocha, Chai, Sinon, Gulp, Git_
+_Node.js, Typescript, Lambda, Bunyan, Mocha, Chai, Sinon, Gulp, Git_
 
 ### Algorithms performance app | [source 1](https://github.com/reivax0z/algo-impl-front) | [source 2](https://github.com/reivax0z/algo-impl-back) 
 _Java/JEE, SpringBoot, Spring MVC, Swagger, Groovy, Protractor, Mocha, Polymer, D3, DynamoDB, S3, EBS, Tomcat server, Gradle, Gulp, Git_
