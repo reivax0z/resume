@@ -1,5 +1,14 @@
 # Xavier Caron
-> **API & Microservices | Software Engineer | AWS Certified | MEng(CS) & MIS**
+> API & Microservices // Software Engineer // AWS Certified // MEng(CS) & MIS
+
+___
+
+- [Experience](#experience)
+- [Education](#education)
+- [Certifications](#certifications)
+- [Publications](#publications)
+- [Tech Stack](#tech-stack)
+- [Personal Projects](#personal-projects)
 
 ___
 
@@ -9,11 +18,11 @@ ___
 #### Senior Software Engineer Consultant
 > Sydney, Australia
 
-**API & Microservices Engineer**
+**Back-end Engineer (Node.js + Java)**
 
 Engagements:
-- Telstra: FBS
-- Telstra: RPM
+- Telstra: FBS (Fixed Broadband Service)
+- Telstra: CIP (Customer Identity Platform)
 
 ### SiteMinder | Jan 2017 - Apr 2018
 #### Software Engineer
@@ -34,7 +43,7 @@ Projects:
 **Full-stack Engineer (Java + Polymer)**
 
 Engagements:
-- ANZ Banking: SBOS
+- ANZ Banking: SBOS (Small Business Origination Service)
 - ING Direct: Switches App
 
 ### PwC Australia | Jan 2015 - Oct 2015
@@ -44,8 +53,8 @@ Engagements:
 **Back-end Engineer (Java)**
 
 Engagements:
-- Jemena: MSI
-- Jemena: Portal
+- Jemena: MSI (Market System Interface)
+- Jemena: User Portal
 
 ### Amundi Asset Management | Oct 2011 - Nov 2013
 #### Software Engineer Consultant
@@ -112,7 +121,10 @@ ___
 
 ## Personal Projects
 
-### Email client | [source](https://github.com/reivax0z/email-clietn)
+### Microservice generator | [source](https://github.com/reivax0z/generator-microservice)
+_Node.js, Typescript, Lambda, Express, Winston, Jest, Gulp, Git_
+
+### Email client | [source](https://github.com/reivax0z/email-client)
 _Kotlin, SpringBoot, Spring MVC, SES, Swagger, Tomcat Server, Gradle, Git_
 
 ### AWS state machine | [source](https://github.com/reivax0z/aws-state-machine)
