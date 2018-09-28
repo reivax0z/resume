@@ -1,5 +1,5 @@
 # Xavier Caron
-> API & Microservices // Software Engineer // AWS Certified // MEng(CS) & MIS
+> API & Micro-services // Software Engineer // AWS Certified // MEng(CS) & MIS
 
 ___
 
@@ -18,7 +18,7 @@ ___
 #### Senior Software Engineer Consultant
 > Sydney, Australia
 
-**Back-end Engineer (Node.js + Java)**
+_Back-end Engineer (Node.js + Java)_
 
 Engagements:
 - Telstra: FBS (Fixed Broadband Service)
@@ -28,7 +28,7 @@ Engagements:
 #### Software Engineer
 > Sydney, Australia
 
-**Back-end Engineer (Groovy + Node.js)**
+_Back-end Engineer (Groovy + Node.js)_
 
 Projects:
 - Leonardo PMS
@@ -40,7 +40,7 @@ Projects:
 #### Software Engineer Consultant
 > Melbourne & Sydney, Australia
 
-**Full-stack Engineer (Java + Polymer)**
+_Full-stack Engineer (Java + Polymer)_
 
 Engagements:
 - ANZ Banking: SBOS (Small Business Origination Service)
@@ -50,7 +50,7 @@ Engagements:
 #### Software Engineer Consultant
 > Melbourne, Australia
 
-**Back-end Engineer (Java)**
+_Back-end Engineer (Java)_
 
 Engagements:
 - Jemena: MSI (Market System Interface)
@@ -60,7 +60,7 @@ Engagements:
 #### Software Engineer Consultant
 > Paris, France
 
-**Back-end Engineer (Java)**
+_Back-end Engineer (Java)_
 
 Projects:
 - Order Mgmt System
@@ -120,6 +120,9 @@ ___
 ___
 
 ## Personal Projects
+
+### CI pipeline with github webhook | [source](https://github.com/reivax0z/ci-pipeline-github-webhook)
+_Cloudformation, API Gateway, Lambda, Codebuild, Python, Bash, Git_
 
 ### Microservice generator | [source](https://github.com/reivax0z/generator-microservice)
 _Node.js, Typescript, Lambda, Express, Winston, Jest, Gulp, Git_
