@@ -14,21 +14,17 @@ ___
 
 ## Experience
 
-### Versent | Apr 2018 - Present
-#### Senior Software Engineer Consultant
+### API & Microservices Engineer
+#### Versent | Apr 2018 - Present
 > Sydney, Australia
-
-_Back-end Engineer (Node.js + Java)_
 
 Engagements:
 - Telstra: FBS (Fixed Broadband Service)
 - Telstra: CIP (Customer Identity Platform)
 
-### SiteMinder | Jan 2017 - Apr 2018
-#### Software Engineer
+### Software Engineer
+#### SiteMinder | Jan 2017 - Apr 2018
 > Sydney, Australia
-
-_Back-end Engineer (Groovy + Node.js)_
 
 Projects:
 - Leonardo PMS
@@ -36,31 +32,25 @@ Projects:
 - User Mgmt API
 - Channel Sync API
 
-### Odecee, A Cognizant Digital Business | Oct 2015 - Jan 2017
-#### Software Engineer Consultant
+### Java Software Engineer
+#### Odecee, A Cognizant Digital Business | Oct 2015 - Jan 2017
 > Melbourne & Sydney, Australia
-
-_Full-stack Engineer (Java + Polymer)_
 
 Engagements:
 - ANZ Banking: SBOS (Small Business Origination Service)
 - ING Direct: Switches App
 
-### PwC Australia | Jan 2015 - Oct 2015
-#### Software Engineer Consultant
+### Java Software Engineer
+#### PwC Australia | Jan 2015 - Oct 2015
 > Melbourne, Australia
-
-_Back-end Engineer (Java)_
 
 Engagements:
 - Jemena: MSI (Market System Interface)
 - Jemena: User Portal
 
-### Amundi Asset Management | Oct 2011 - Nov 2013
-#### Software Engineer Consultant
+### Java Software Engineer (Consultant)
+#### Amundi Asset Management | Oct 2011 - Nov 2013
 > Paris, France
-
-_Back-end Engineer (Java)_
 
 Projects:
 - Order Mgmt System
@@ -100,6 +90,10 @@ ___
 
 ## Publications
 
+### Versent Tech Blog | 2018
+_Lessons learnt from going serverless: Why choose serverless?_
+[Versent Tech Blog, October 2018](https://versent.com.au/insights/lessons-learnt-from-going-serverless-2)
+
 ### Computer Law & Security Review | 2016
 _The Internet of Things (IoT) and its impact on individual privacy: An Australian perspective_
 [Computer Law & Security Review, Volume 32, Issue 1, February 2016, Pages 4-15](https://doi.org/10.1016/j.clsr.2015.12.001)
@@ -108,14 +102,14 @@ ___
 
 ## Tech Stack
 
-| Type          | Technologies                                                                          |
-| ------------- |---------------------------------------------------------------------------------------|
-| Back-end      | Java JEE, Groovy, Node.js, Web Services (REST & SOAP), Spring, Hibernate, GraphQL     |
-| Front-end     | Javascript, Polymer Web Components, AngularJS, Bootstrap, HTML5 & CSS3                |
-| AWS           | Lambda, Kinesis, S3, DynamoDB, RDS, ELB, EC2, Cloudformation, Codebuild, Codepipeline |
-| Tools         | Jira, Git, Maven, Gradle, Gulp, Docker, Kubernetes, Helm, IntelliJ                    |
-| Database      | Sybase, MySQL, PostgreSQL, DynamoDB, MongoDB, Cassandra                               |
-| Server        | JOnAS, Websphere, Tomcat, Jetty, Glassfish, JBoss                                     |
+| Area          | Technologies                                                                                       |
+| ------------- |----------------------------------------------------------------------------------------------------|
+| Back-end      | Java JEE, Groovy, NodeJS, Web Services (REST & SOAP), Spring, Hibernate, GraphQL                   |
+| Front-end     | Javascript, Polymer Web Components, AngularJS, Bootstrap, HTML5 & CSS3                             |
+| AWS           | Lambda, Kinesis, S3, DynamoDB, RDS, ELB, EC2, API Gateway, Cloudformation, Codebuild, Codepipeline |
+| Tools         | Jira, Git, Maven, Gradle, Gulp, Docker, Kubernetes, Helm, IntelliJ                                 |
+| Database      | Sybase, MySQL, PostgreSQL, DynamoDB, MongoDB, Cassandra                                            |
+| Server        | JOnAS, Websphere, Tomcat, Jetty, Glassfish, JBoss                                                  |
 
 ___
 
@@ -125,15 +119,15 @@ ___
 _Cloudformation, API Gateway, Lambda, Codebuild, Python, Bash, Git_
 
 ### Microservice generator | [source](https://github.com/reivax0z/generator-microservice)
-_Node.js, Typescript, Lambda, Express, Winston, Jest, Gulp, Git_
+_NodeJS, Typescript, Lambda, Express, Winston, Jest, Gulp, Git_
 
 ### Email client | [source](https://github.com/reivax0z/email-client)
 _Kotlin, SpringBoot, Spring MVC, SES, Swagger, Tomcat Server, Gradle, Git_
 
 ### AWS state machine | [source](https://github.com/reivax0z/aws-state-machine)
-_Node.js, Typescript, Lambda, Bunyan, Mocha, Chai, Sinon, Gulp, Git_
+_NodeJS, Typescript, Lambda, Bunyan, Mocha, Chai, Sinon, Gulp, Git_
 
-### Algorithms performance app | [source 1](https://github.com/reivax0z/algo-impl-front) | [source 2](https://github.com/reivax0z/algo-impl-back) 
+### Algorithms performance app | [source fe](https://github.com/reivax0z/algo-impl-front) | [source be](https://github.com/reivax0z/algo-impl-back) 
 _Java/JEE, SpringBoot, Spring MVC, Swagger, Groovy, Protractor, Mocha, Polymer, D3, DynamoDB, S3, EBS, Tomcat server, Gradle, Gulp, Git_
 
 ### Online shopping checkout app | [source]( https://github.com/reivax0z/checkout-system)
