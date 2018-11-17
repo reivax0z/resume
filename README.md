@@ -65,7 +65,7 @@ ___
 _The University of Melbourne, Australia_ - GPA 80% - First Class Honours
 
 ### Master of Engineering (Computer Science) | 2006 - 2011
-_The University of Nice, France_ - GPA 15/20 - Top 5%
+_The University of Nice, France_ - GPA 75%
 
 ### Year Abroad Program (Erasmus) | 2009 - 2010
 _Trinity College Dublin, Ireland_ - GPA 71% - First Class Honours
