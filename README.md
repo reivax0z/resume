@@ -27,7 +27,7 @@ Engagements:
 > Sydney, Australia
 
 Projects:
-- Leonardo PMS
+- Leonardo PMS Integration
 - Reservation Emails
 - User Management API
 - Channel Sync API
@@ -46,7 +46,7 @@ Engagements:
 
 Engagements:
 - Jemena: MSI (Market System Interface)
-- Jemena: User Portal
+- Jemena: Customer Portal
 
 ### Java Software Engineer (Consultant)
 #### Amundi Asset Management | Oct 2011 - Nov 2013
@@ -54,8 +54,8 @@ Engagements:
 
 Projects:
 - Order Management System (OMS)
-- Constraint rules tool
-- Stress testing tool
+- Constraint Rules System
+- Stress Testing Tool
 
 ___
 
