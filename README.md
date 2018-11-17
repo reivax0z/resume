@@ -1,5 +1,5 @@
 # Xavier Caron
-> API & Micro-services // Software Engineer // AWS Certified // MEng(CS) & MIS
+> Software Engineer // AWS Certified // MEng(CS) & MIS
 
 ___
 
@@ -14,7 +14,7 @@ ___
 
 ## Experience
 
-### API & Microservices Engineer
+### Senior Microservices Engineer
 #### Versent | Apr 2018 - Present
 > Sydney, Australia
 
@@ -29,7 +29,7 @@ Engagements:
 Projects:
 - Leonardo PMS
 - Reservation Emails
-- User Mgmt API
+- User Management API
 - Channel Sync API
 
 ### Java Software Engineer
@@ -53,7 +53,7 @@ Engagements:
 > Paris, France
 
 Projects:
-- Order Mgmt System
+- Order Management System (OMS)
 - Constraint rules tool
 - Stress testing tool
 
