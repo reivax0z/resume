@@ -14,12 +14,12 @@ ___
 
 ## Experience
 
-### Senior Microservices Engineer
+### Senior Software Engineer
 #### Versent | Apr 2018 - Present
 > Sydney, Australia
 
 Engagements:
-- Telstra: FBS (Fixed Broadband Service)
+- NSW LRS: ELNO (Electronic Lodgement)
 - Telstra: CIP (Customer Identity Platform)
 
 ### Software Engineer
@@ -53,7 +53,7 @@ Engagements:
 > Paris, France
 
 Projects:
-- Order Management System (OMS)
+- OMS (Order Management System)
 - Constraint Rules System
 - Stress Testing Tool
 
@@ -102,14 +102,14 @@ ___
 
 ## Tech Stack
 
-| Area          | Technologies                                                                                       |
-| ------------- |----------------------------------------------------------------------------------------------------|
-| Back-end      | Java JEE, Groovy, NodeJS, Web Services (REST & SOAP), Spring, Hibernate, GraphQL                   |
-| Front-end     | Javascript, Polymer Web Components, AngularJS, Bootstrap, HTML5 & CSS3                             |
-| AWS           | Lambda, Kinesis, S3, DynamoDB, RDS, ELB, EC2, API Gateway, Cloudformation, Codebuild, Codepipeline |
-| Tools         | Jira, Git, Maven, Gradle, Gulp, Docker, Kubernetes, Helm, IntelliJ                                 |
-| Database      | Sybase, MySQL, PostgreSQL, DynamoDB, MongoDB, Cassandra                                            |
-| Server        | JOnAS, Websphere, Tomcat, Jetty, Glassfish, JBoss                                                  |
+| Area          | Technologies                                                                                         |
+| ------------- |------------------------------------------------------------------------------------------------------|
+| Back-end      | Java JEE, Groovy, Node.js, Typescript, Web Services (REST & SOAP), Spring, Hibernate, GraphQL        |
+| Front-end     | Javascript, Polymer Web Components, AngularJS, Bootstrap, HTML5 & CSS3                               |
+| AWS           | Lambda, Kinesis, SQS, S3, ELB, EC2, API Gateway, Cloudformation, Codebuild, Codepipeline             |
+| Tools         | Jira, Git, Bitbucket, Maven, Gradle, Gulp, Docker, Kubernetes, Helm, IntelliJ                        |
+| Database      | Sybase, MySQL, PostgreSQL, RDS, DynamoDB, MongoDB, Cassandra                                         |
+| Server        | JOnAS, Websphere, Tomcat, Jetty, Glassfish, JBoss                                                    |
 
 ___
 
@@ -119,13 +119,13 @@ ___
 _Cloudformation, API Gateway, Lambda, Codebuild, Python, Bash, Git_
 
 ### Microservice generator | [source](https://github.com/reivax0z/generator-microservice)
-_NodeJS, Typescript, Lambda, Express, Winston, Jest, Gulp, Git_
+_Node.js, Typescript, Lambda, Express, Winston, Jest, Gulp, Git_
 
 ### Email client | [source](https://github.com/reivax0z/email-client)
 _Kotlin, SpringBoot, Spring MVC, SES, Swagger, Tomcat Server, Gradle, Git_
 
 ### AWS state machine | [source](https://github.com/reivax0z/aws-state-machine)
-_NodeJS, Typescript, Lambda, Bunyan, Mocha, Chai, Sinon, Gulp, Git_
+_Node.js, Typescript, Lambda, Bunyan, Mocha, Chai, Sinon, Gulp, Git_
 
 ### Algorithms performance app | [source fe](https://github.com/reivax0z/algo-impl-front) | [source be](https://github.com/reivax0z/algo-impl-back) 
 _Java/JEE, SpringBoot, Spring MVC, Swagger, Groovy, Protractor, Mocha, Polymer, D3, DynamoDB, S3, EBS, Tomcat server, Gradle, Gulp, Git_
