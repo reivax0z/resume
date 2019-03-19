@@ -115,6 +115,9 @@ ___
 
 ## Personal Projects
 
+### Stock market app | [source](https://github.com/reivax0z/stock-market-tool) 
+_Java, SpringBoot, Spring MVC, Swagger, JUnit, Mockito, AngularJS, Bootstrap, Typescript, Protractor, Jasmine, S3, EBS, Tomcat server, Gradle, Gulp, Git_
+
 ### CI pipeline with github webhook | [source](https://github.com/reivax0z/ci-pipeline-github-webhook)
 _Cloudformation, API Gateway, Lambda, Codebuild, Python, Bash, Git_
 
@@ -129,12 +132,6 @@ _Node.js, Typescript, Lambda, Bunyan, Mocha, Chai, Sinon, Gulp, Git_
 
 ### Algorithms performance app | [source fe](https://github.com/reivax0z/algo-impl-front) | [source be](https://github.com/reivax0z/algo-impl-back) 
 _Java/JEE, SpringBoot, Spring MVC, Swagger, Groovy, Protractor, Mocha, Polymer, D3, DynamoDB, S3, EBS, Tomcat server, Gradle, Gulp, Git_
-
-### Online shopping checkout app | [source]( https://github.com/reivax0z/checkout-system)
-_Java/JEE, Spring, Spring MVC, FasterXml, AngularJS, Swagger, Bootstrap, Jetty server, Gradle, Git_
-
-### How to-do app | [source](https://github.com/reivax0z/howto-tech)
-_Java/JEE, Spring, Spring MVC, Hibernate, Hibernate Search, String Template, Bootstrap, PostgreSQL, Jetty server, Maven, Heroku, Git_
 
 ### Melbourne Uni Tennis Club (MUTC) website | [source](https://github.com/reivax0z/mutc)
 _Javascript, jQuery, Facebook Graph SDK, Bootstrap, HTML5, CSS3, Git_
