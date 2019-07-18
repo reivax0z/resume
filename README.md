@@ -19,6 +19,7 @@ ___
 > Sydney, Australia
 
 Engagements:
+- Ping: PaaS (Platform as a Service)
 - NSW LRS: ELNO (Electronic Lodgement)
 - Telstra: CIP (Customer Identity Platform)
 
@@ -32,7 +33,7 @@ Projects:
 - User Management API
 - Channel Sync API
 
-### Java Software Engineer
+### Software Engineer
 #### Odecee, A Cognizant Digital Business | Oct 2015 - Jan 2017
 > Melbourne & Sydney, Australia
 
@@ -48,7 +49,7 @@ Engagements:
 - Jemena: MSI (Market System Interface)
 - Jemena: Customer Portal
 
-### Java Software Engineer (Consultant)
+### Java Software Developer (Consultant)
 #### Amundi Asset Management | Oct 2011 - Nov 2013
 > Paris, France
 
@@ -102,42 +103,45 @@ ___
 
 ## Tech Stack
 
-| Area          | Technologies                                                                                         |
-| ------------- |------------------------------------------------------------------------------------------------------|
-| Back-end      | Java JEE, Groovy, Node.js, Typescript, Web Services (REST & SOAP), Spring, Hibernate, GraphQL        |
-| Front-end     | Javascript, Polymer Web Components, AngularJS, Bootstrap, HTML5 & CSS3                               |
-| AWS           | Lambda, Kinesis, SQS, S3, ELB, EC2, API Gateway, Cloudformation, Codebuild, Codepipeline             |
-| Tools         | Jira, Git, Bitbucket, Maven, Gradle, Gulp, Docker, Kubernetes, Helm, IntelliJ                        |
-| Database      | Sybase, MySQL, PostgreSQL, RDS, DynamoDB, MongoDB, Cassandra                                         |
-| Server        | JOnAS, Websphere, Tomcat, Jetty, Glassfish, JBoss                                                    |
+| Area          | Technologies                                                                                                  |
+| ------------- |---------------------------------------------------------------------------------------------------------------|
+| Back-end      | Java JEE, Groovy, Node.js, Typescript, Web Services (REST & SOAP), Spring, Hibernate, GraphQL                 |
+| Front-end     | Javascript, AngularJS, Bootstrap, HTML5 & CSS3                                                                |
+| AWS           | Lambda, Kinesis, SQS, S3, ELB, EC2, API Gateway, AppSync, Cognito, Cloudformation, Codebuild, Codepipeline    |
+| Tools         | Jira, Git, Bitbucket, Maven, Gradle, Gulp, Docker, Kubernetes, Helm, IntelliJ                                 |
+| Database      | Sybase, MySQL, PostgreSQL, RDS, DynamoDB, MongoDB, Cassandra                                                  |
+| Server        | JOnAS, Websphere, Tomcat, Jetty, Glassfish, JBoss                                                             |
 
 ___
 
 ## Personal Projects
 
-### Stock market app | [source](https://github.com/reivax0z/stock-market-tool) 
+### Integration test framework | 2019 | [source](https://github.com/reivax0z/integration-tests)
+_Node.js, Typescript, Express, DynamoDB, Jest, Docker, Localstack, Makefile, Git_
+
+### Stock market app | 2019 | [source](https://github.com/reivax0z/stock-market-tool) 
 _Java, SpringBoot, Spring MVC, Swagger, JUnit, Mockito, AngularJS, Bootstrap, Typescript, Protractor, Jasmine, S3, EBS, Tomcat server, Gradle, Gulp, Git_
 
-### CI pipeline with github webhook | [source](https://github.com/reivax0z/ci-pipeline-github-webhook)
+### CI pipeline with github webhook | 2018 | [source](https://github.com/reivax0z/ci-pipeline-github-webhook)
 _Cloudformation, API Gateway, Lambda, Codebuild, Python, Bash, Git_
 
-### Microservice generator | [source](https://github.com/reivax0z/generator-microservice)
+### Microservice generator | 2018 | [source](https://github.com/reivax0z/generator-microservice)
 _Node.js, Typescript, Lambda, Express, Winston, Jest, Gulp, Git_
 
-### Email client | [source](https://github.com/reivax0z/email-client)
+### Email client | 2018 | [source](https://github.com/reivax0z/email-client)
 _Kotlin, SpringBoot, Spring MVC, SES, Swagger, Tomcat Server, Gradle, Git_
 
-### AWS state machine | [source](https://github.com/reivax0z/aws-state-machine)
+### AWS state machine | 2017 | [source](https://github.com/reivax0z/aws-state-machine)
 _Node.js, Typescript, Lambda, Bunyan, Mocha, Chai, Sinon, Gulp, Git_
 
-### Algorithms performance app | [source fe](https://github.com/reivax0z/algo-impl-front) | [source be](https://github.com/reivax0z/algo-impl-back) 
+### Algorithms performance app | 2016 | [source fe](https://github.com/reivax0z/algo-impl-front) | [source be](https://github.com/reivax0z/algo-impl-back) 
 _Java/JEE, SpringBoot, Spring MVC, Swagger, Groovy, Protractor, Mocha, Polymer, D3, DynamoDB, S3, EBS, Tomcat server, Gradle, Gulp, Git_
 
-### Melbourne Uni Tennis Club (MUTC) website | [source](https://github.com/reivax0z/mutc)
+### Melbourne Uni Tennis Club (MUTC) website | 2014 | [source](https://github.com/reivax0z/mutc)
 _Javascript, jQuery, Facebook Graph SDK, Bootstrap, HTML5, CSS3, Git_
 
-### Address book app | [source](https://github.com/reivax0z/address-book)
+### Address book app | 2014 | [source](https://github.com/reivax0z/address-book)
 _Java/JEE, JSP, Servlet, Javascript, JSON, JUnit, Bootstrap, PostgreSQL, Hibernate, Jetty server, Maven, Heroku, Git_
 
-### Travel tips and blog | [source](https://github.com/reivax0z/visit-web-site)
+### Travel tips and blog | 2014 | [source](https://github.com/reivax0z/visit-web-site)
 _Java/JEE, JSP, Servlet, EJB, Javascript, Google Maps API, Flickr Rest, Bootstrap, Hibernate, MySQL, Tomcat, Maven, Git_
