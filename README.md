@@ -106,7 +106,7 @@ ___
 | Area          | Technologies                                                                                                  |
 | ------------- |---------------------------------------------------------------------------------------------------------------|
 | Back-end      | Java JEE, Groovy, Node.js, Typescript, Web Services (REST & SOAP), Spring, Hibernate, GraphQL                 |
-| Front-end     | Javascript, AngularJS, Bootstrap, HTML5 & CSS3                                                                |
+| Front-end     | Javascript, React, AngularJS, Bootstrap, HTML5 & CSS3                                                         |
 | AWS           | Lambda, Kinesis, SQS, S3, ELB, EC2, API Gateway, AppSync, Cognito, Cloudformation, Codebuild, Codepipeline    |
 | Tools         | Jira, Git, Bitbucket, Maven, Gradle, Gulp, Docker, Kubernetes, Helm, IntelliJ                                 |
 | Database      | Sybase, MySQL, PostgreSQL, RDS, DynamoDB, MongoDB, Cassandra                                                  |
