@@ -3,24 +3,34 @@
 
 ___
 
+Xavier is a **Software Engineer** with 6+ years of experience specialising in back-end technologies (**Java / Node.js**), building API & micro-services.
+
+Passionate about technology and constantly looking for new knowledge, Xavier holds a **Master of Engineering (Computer Science)** from the University of Nice, France and a **Master of Information Systems (MIS)** from the University of Melbourne, Australia.
+
+Xavier is a certified **Oracle Professional Java Programmer** (OCPJP), a certified **AWS Developer Associate** (AWS-DVA) and a certified **Professional Scrum Master** (PSM-I).
+
+His Master's thesis - **The Internet of Things (IoT) and its impact on individual privacy: an Australian perspective** - has been published in Computer Law & Security Review, February 2016.
+
+___
+
 - [Experience](#experience)
-  - [Versent | Senior Software Engineer](#versent-|-senior-software-engineer)
-  - [SiteMinder | Software Engineer](#siteminder-|-software-engineer)
-  - [Odecee, A Cognizant Digital Business | Software Engineer](#odecee,-a-cognizant-digital-business-|-software-engineer)
-  - [PwC Australia | Software Engineer](#pwc-australia-|-software-engineer)
-  - [Amundi Asset Management | Software Developer](#amundi-asset-management-|-software-developer)
+  - [Versent - Senior Software Engineer](#versent---senior-software-engineer)
+  - [SiteMinder - Software Engineer](#siteminder---software-engineer)
+  - [Odecee, A Cognizant Digital Business - Software Engineer](#odecee,-a-cognizant-digital-business---software-engineer)
+  - [PwC Australia - Software Engineer](#pwc-australia---software-engineer)
+  - [Amundi Asset Management - Software Developer](#amundi-asset-management---software-developer)
 - [Education](#education)
   - [Master of Information Systems](#master-of-information-systems)
-  - [Master of Engineering | Computer Science](#master-of-engineering-|-computer-science)
-  - [Year Abroad Program | Erasmus](#year-abroad-program-|-erasmus)
+  - [Master of Engineering - Computer Science](#master-of-engineering---computer-science)
+  - [Year Abroad Program - Erasmus](#year-abroad-program---erasmus)
 - [Certifications](#certifications)
   - [Professional Scrum Master](#professional-scrum-master)
   - [AWS Certified Developer](#aws-certified-developer)
   - [Oracle Certified Professional - Java](#oracle-certified-professional---java)
   - [Oracle Certified Associate - Java](#oracle-certified-associate---java)
 - [Publications](#publications)
-  - [Versent Tech Blog | 2018](#versent-tech-blog-|-2018)
-  - [Computer Law & Security Review | 2016](#computer-law-&-security-review-|-2016)
+  - [Versent Tech Blog - 2018](#versent-tech-blog---2018)
+  - [Computer Law & Security Review - 2016](#computer-law-&-security-review---2016)
 - [Tech Stack](#tech-stack)
 - [Personal Projects](#personal-projects)
 
@@ -28,85 +38,88 @@ ___
 
 ## Experience
 
-### Versent | Senior Software Engineer 
+### Versent - Senior Software Engineer 
 `Sydney, Australia | 2018-2019`
 
-- Ping Cloud - PaaS (Platform as a Service)
+**Ping Cloud - PaaS (Platform as a Service)**
   
-  Node.js APIs & micro-services for Ping stacks & customers management.
+Node.js APIs & micro-services for Ping stacks & customers management.
 
-- NSW LRS - ELNO (Electronic Lodgement)
+**NSW LRS - ELNO (Electronic Lodgement)**
 
-  Springboot APIs & Java micro-services for lodgement, documents verification and land registry processing.
+Springboot APIs & Java micro-services for lodgement, documents verification and land registry processing.
   
-- Telstra - CIP (Customer Identity Platform)
+**Telstra - CIP (Customer Identity Platform)**
 
-  Node.js micro-services and shared libraries for customer account management.
+Node.js micro-services and shared libraries for customer account management.
 
-### SiteMinder | Software Engineer
+### SiteMinder - Software Engineer
 `Sydney, Australia | 2017-2018`
 
-- Leonardo PMS Integration
+**Leonardo PMS Integration**
   
-  Node.js micro-services architecture leveraging AWS components.
+Node.js micro-services architecture leveraging AWS components.
   
-- Reservation Emails
+**Reservation Emails**
   
-  Templating tools for generating and testing email content. Integration with existing distribution Channels.
+Templating tools for generating and testing email content. Integration with existing distribution Channels.
   
-- User Management API
+**User Management API**
 
-  SpringBoot back-end API using GraphQL, enabling front-end applications to manage users.
+SpringBoot back-end API using GraphQL, enabling front-end applications to manage users.
 
-- Channel Sync API
+**Channel Sync API**
 
-  SpringBoot micro-services APIs to replace existing tightly coupled architecture.
+SpringBoot micro-services APIs to replace existing tightly coupled architecture.
 
-### Odecee, A Cognizant Digital Business | Software Engineer
+### Odecee, A Cognizant Digital Business - Software Engineer
 `Melbourne & Sydney, Australia | 2016-2017`
 
-- ANZ Banking: SBOS (Small Business Origination Service)
+**ANZ Banking: SBOS (Small Business Origination Service)**
 
-  Architecture leveraging micro-services, continuous integration / deployment and interaction with legacy systems.
+Architecture leveraging micro-services, continuous integration / deployment and interaction with legacy systems.
   
-- ING Direct: Switches App
+**ING Direct: Switches App**
 
-  Simplification of the process of switching from one financial product to another.
+Simplification of the process of switching from one financial product to another.
 
-### PwC Australia | Software Engineer
+### PwC Australia - Software Engineer
 `Melbourne, Australia | 2015`
 
-- Jemena: MSI (Market System Interface)
+**Jemena: MSI (Market System Interface)**
 
-  Messages processing and management to and from the market authorities.
+Messages processing and management to and from the market authorities.
 
-- Jemena: Customer Portal
+**Jemena: Customer Portal**
 
-  Self-service portal allowing customers to request, pay for and track connection services.
+Self-service portal allowing customers to request, pay for and track connection services.
 
-### Amundi Asset Management | Software Developer
+### Amundi Asset Management - Software Developer
 `Paris, France | 2011-2013`
 
-- OMS (Order Management System)
+**OMS (Order Management System)**
 
-  The application enables traders and managers to create / send / place / integrate orders through the financial environment (via fix protocol for instance).
+The application enables traders and managers to create / send / place / integrate orders through the financial environment (via fix protocol for instance).
   
-- Constraint Rules System
+**Constraint Rules System**
 
 ___
 
 ## Education
 
 ### Master of Information Systems
-#### `The University of Melbourne, Australia | 2014` 
+`The University of Melbourne, Australia | 2014` 
+
 GPA 80% - First Class Honours
 
-### Master of Engineering | Computer Science
-#### `The University of Nice, France | 2006-2011` 
-GPA 75%
+### Master of Engineering - Computer Science
+`The University of Nice, France | 2006-2011` 
 
-### Year Abroad Program | Erasmus
-#### `Trinity College Dublin, Ireland | 2009-2010` 
+GPA 75% - Top 5%
+
+### Year Abroad Program - Erasmus
+`Trinity College Dublin, Ireland | 2009-2010` 
+
 GPA 71% - First Class Honours
 
 ___
@@ -129,12 +142,12 @@ ___
 
 ## Publications
 
-### Versent Tech Blog | 2018
+### Versent Tech Blog - 2018
 _Lessons learnt from going serverless: Why choose serverless?_ 
 
 [Versent Tech Blog, October 2018](https://versent.com.au/insights/lessons-learnt-from-going-serverless-2)
 
-### Computer Law & Security Review | 2016
+### Computer Law & Security Review - 2016
 _The Internet of Things (IoT) and its impact on individual privacy: An Australian perspective_
 
 [Computer Law & Security Review, Volume 32, Issue 1, February 2016, Pages 4-15](https://doi.org/10.1016/j.clsr.2015.12.001)
@@ -156,32 +169,58 @@ ___
 
 ## Personal Projects
 
-### Integration test framework | 2019 | [source](https://github.com/reivax0z/integration-tests)
-_Node.js, Typescript, Express, DynamoDB, Jest, Docker, Localstack, Makefile, Git_
+### Integration test framework | 2019
+`Node.js, Typescript, Express, DynamoDB, Jest, Docker, Localstack, Makefile`
 
-### Stock market app | 2019 | [source](https://github.com/reivax0z/stock-market-tool) 
-_Java, SpringBoot, Spring MVC, Swagger, JUnit, Mockito, AngularJS, Bootstrap, Typescript, Protractor, Jasmine, S3, EBS, Tomcat server, Gradle, Gulp, Git_
+[source](https://github.com/reivax0z/integration-tests)
 
-### CI pipeline with github webhook | 2018 | [source](https://github.com/reivax0z/ci-pipeline-github-webhook)
-_Cloudformation, API Gateway, Lambda, Codebuild, Python, Bash, Git_
+### Stock market app | 2019 
+`Java, SpringBoot, Spring MVC, Swagger, JUnit, Mockito, EBS, Tomcat server, Gradle`
 
-### Microservice generator | 2018 | [source](https://github.com/reivax0z/generator-microservice)
-_Node.js, Typescript, Lambda, Express, Winston, Jest, Gulp, Git_
+`AngularJS, Bootstrap, Typescript, Protractor, Jasmine, S3, Gulp`
 
-### Email client | 2018 | [source](https://github.com/reivax0z/email-client)
-_Kotlin, SpringBoot, Spring MVC, SES, Swagger, Tomcat Server, Gradle, Git_
+[source](https://github.com/reivax0z/stock-market-tool)
 
-### AWS state machine | 2017 | [source](https://github.com/reivax0z/aws-state-machine)
-_Node.js, Typescript, Lambda, Bunyan, Mocha, Chai, Sinon, Gulp, Git_
+### CI pipeline with github webhook | 2018
+`Cloudformation, API Gateway, Lambda, Codebuild, Python, Bash`
 
-### Algorithms performance app | 2016 | [source fe](https://github.com/reivax0z/algo-impl-front) | [source be](https://github.com/reivax0z/algo-impl-back) 
-_Java/JEE, SpringBoot, Spring MVC, Swagger, Groovy, Protractor, Mocha, Polymer, D3, DynamoDB, S3, EBS, Tomcat server, Gradle, Gulp, Git_
+[source](https://github.com/reivax0z/ci-pipeline-github-webhook)
 
-### Melbourne Uni Tennis Club (MUTC) website | 2014 | [source](https://github.com/reivax0z/mutc)
-_Javascript, jQuery, Facebook Graph SDK, Bootstrap, HTML5, CSS3, Git_
+### Microservice generator | 2018
+`Node.js, Typescript, Lambda, Express, Winston, Jest, Gulp`
 
-### Address book app | 2014 | [source](https://github.com/reivax0z/address-book)
-_Java/JEE, JSP, Servlet, Javascript, JSON, JUnit, Bootstrap, PostgreSQL, Hibernate, Jetty server, Maven, Heroku, Git_
+[source](https://github.com/reivax0z/generator-microservice)
 
-### Travel tips and blog | 2014 | [source](https://github.com/reivax0z/visit-web-site)
-_Java/JEE, JSP, Servlet, EJB, Javascript, Google Maps API, Flickr Rest, Bootstrap, Hibernate, MySQL, Tomcat, Maven, Git_
+### Email client | 2018
+`Kotlin, SpringBoot, Spring MVC, SES, Swagger, Tomcat Server, Gradle`
+
+[source](https://github.com/reivax0z/email-client)
+
+### AWS state machine | 2017
+`Node.js, Typescript, Lambda, Bunyan, Mocha, Chai, Sinon, Gulp`
+
+[source](https://github.com/reivax0z/aws-state-machine)
+
+### Algorithms performance app | 2016 
+`Java/JEE, SpringBoot, Spring MVC, Swagger, Groovy, EBS, Tomcat server, Gradle`
+ 
+[source backend](https://github.com/reivax0z/algo-impl-back)
+
+`Protractor, Mocha, Polymer, D3, DynamoDB, S3, Gulp`
+
+[source frontend](https://github.com/reivax0z/algo-impl-front)
+
+### Melbourne Uni Tennis Club (MUTC) website | 2014
+`Javascript, jQuery, Facebook Graph SDK, Bootstrap, HTML5, CSS3`
+
+[source](https://github.com/reivax0z/mutc)
+
+### Address book app | 2014
+`Java/JEE, JSP, Servlet, Javascript, JSON, JUnit, Bootstrap, PostgreSQL, Hibernate, Jetty server, Maven, Heroku`
+
+[source](https://github.com/reivax0z/address-book)
+
+### Travel tips and blog | 2014
+`Java/JEE, JSP, Servlet, EJB, Javascript, Google Maps API, Flickr API, Bootstrap, Hibernate, MySQL, Tomcat, Maven`
+
+[source](https://github.com/reivax0z/visit-web-site)
