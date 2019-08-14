@@ -4,23 +4,23 @@
 ___
 
 - [Experience](#experience)
-  - [Versent | 2018-2019](#versent--2018-2019)
-  - [SiteMinder | 2017-2018](#siteminder--2017-2018)
-  - [Odecee, A Cognizant Digital Business | 2016-2017](#odecee-a-cognizant-digital-business--2016-2017)
-  - [PwC Australia | 2015](#pwc-australia--2015)
-  - [Amundi Asset Management | 2011-2013](#amundi-asset-management--2011-2013)
+  - [Versent | Senior Software Engineer](#versent-|-senior-software-engineer)
+  - [SiteMinder | Software Engineer](#siteminder-|-software-engineer)
+  - [Odecee, A Cognizant Digital Business | Software Engineer](#odecee,-a-cognizant-digital-business-|-software-engineer)
+  - [PwC Australia | Software Engineer](#pwc-australia-|-software-engineer)
+  - [Amundi Asset Management | Software Developer](#amundi-asset-management-|-software-developer)
 - [Education](#education)
   - [Master of Information Systems](#master-of-information-systems)
-  - [Master of Engineering (Computer Science)](#master-of-engineering-computer-science)
-  - [Year Abroad Program (Erasmus)](#year-abroad-program-erasmus)
+  - [Master of Engineering | Computer Science](#master-of-engineering-|-computer-science)
+  - [Year Abroad Program | Erasmus](#year-abroad-program-|-erasmus)
 - [Certifications](#certifications)
   - [Professional Scrum Master](#professional-scrum-master)
   - [AWS Certified Developer](#aws-certified-developer)
   - [Oracle Certified Professional - Java](#oracle-certified-professional---java)
   - [Oracle Certified Associate - Java](#oracle-certified-associate---java)
 - [Publications](#publications)
-  - [Versent Tech Blog | 2018](#versent-tech-blog--2018)
-  - [Computer Law & Security Review | 2016](#computer-law--security-review--2016)
+  - [Versent Tech Blog | 2018](#versent-tech-blog-|-2018)
+  - [Computer Law & Security Review | 2016](#computer-law-&-security-review-|-2016)
 - [Tech Stack](#tech-stack)
 - [Personal Projects](#personal-projects)
 
@@ -28,9 +28,8 @@ ___
 
 ## Experience
 
-### Senior Software Engineer 
-#### `Versent | 2018-2019`
-> Sydney, Australia
+### Versent | Senior Software Engineer 
+`Sydney, Australia | 2018-2019`
 
 - Ping Cloud - PaaS (Platform as a Service)
   
@@ -44,9 +43,8 @@ ___
 
   Node.js micro-services and shared libraries for customer account management.
 
-### Software Engineer
-#### `SiteMinder | 2017-2018`
-> Sydney, Australia
+### SiteMinder | Software Engineer
+`Sydney, Australia | 2017-2018`
 
 - Leonardo PMS Integration
   
@@ -64,9 +62,8 @@ ___
 
   SpringBoot micro-services APIs to replace existing tightly coupled architecture.
 
-### Software Engineer
-#### `Odecee, A Cognizant Digital Business | 2016-2017`
-> Melbourne & Sydney, Australia
+### Odecee, A Cognizant Digital Business | Software Engineer
+`Melbourne & Sydney, Australia | 2016-2017`
 
 - ANZ Banking: SBOS (Small Business Origination Service)
 
@@ -76,9 +73,8 @@ ___
 
   Simplification of the process of switching from one financial product to another.
 
-### Software Engineer
-#### `PwC Australia | 2015`
-> Melbourne, Australia
+### PwC Australia | Software Engineer
+`Melbourne, Australia | 2015`
 
 - Jemena: MSI (Market System Interface)
 
@@ -88,9 +84,8 @@ ___
 
   Self-service portal allowing customers to request, pay for and track connection services.
 
-### Software Developer (Consultant)
-#### `Amundi Asset Management | 2011-2013`
-> Paris, France
+### Amundi Asset Management | Software Developer
+`Paris, France | 2011-2013`
 
 - OMS (Order Management System)
 
@@ -106,11 +101,11 @@ ___
 #### `The University of Melbourne, Australia | 2014` 
 GPA 80% - First Class Honours
 
-### Master of Engineering (Computer Science)
+### Master of Engineering | Computer Science
 #### `The University of Nice, France | 2006-2011` 
 GPA 75%
 
-### Year Abroad Program (Erasmus)
+### Year Abroad Program | Erasmus
 #### `Trinity College Dublin, Ireland | 2009-2010` 
 GPA 71% - First Class Honours
 
@@ -150,8 +145,8 @@ ___
 
 | Area          | Technologies                                                                                                  |
 | ------------- |---------------------------------------------------------------------------------------------------------------|
-| Back-end      | Java JEE, Groovy, Node.js, Typescript, Web Services (REST & SOAP), Spring, Hibernate, GraphQL                 |
-| Front-end     | Javascript, React, AngularJS, Bootstrap, HTML5 & CSS3                                                         |
+| Backend      | Java JEE, Groovy, Node.js, Typescript, Web Services (REST & SOAP), Spring, Hibernate, GraphQL                 |
+| Frontend     | Javascript, React, AngularJS, Bootstrap, HTML5 & CSS3                                                         |
 | AWS           | Lambda, Kinesis, SQS, S3, ELB, EC2, API Gateway, AppSync, Cognito, Cloudformation, Codebuild, Codepipeline    |
 | Tools         | Jira, Git, Bitbucket, Maven, Gradle, Gulp, Docker, Kubernetes, Helm, IntelliJ                                 |
 | Database      | Sybase, MySQL, PostgreSQL, RDS, DynamoDB, MongoDB, Cassandra                                                  |
