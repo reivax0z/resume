@@ -1,10 +1,14 @@
 default: generate
 .PHONY: default
 
+install:
+	npm install
+.PHONY: install
+
 generate: clean
 	mkdir input
 	cp README.md ./input/index.md
-	npx generate-md  --layout github --input ./input --output ./output
+	npm run generate
 .PHONY: generate
 
 clean:

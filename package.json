@@ -4,6 +4,7 @@
   "description": "Xavier Caron Resume",
   "main": "README.md",
   "scripts": {
+    "generate": "npx generate-md  --layout github --input ./input --output ./output",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
