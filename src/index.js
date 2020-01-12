@@ -1,28 +1,18 @@
 const fs = require('fs');
 const fsPromises = fs.promises;
 const path = require('path');
-const rimraf = require("rimraf");
-const Handlebars = require("handlebars");
+const rimraf = require('rimraf');
+const Handlebars = require('handlebars');
 const marked = require('marked');
-const githubMarkdownCss = require('generate-github-markdown-css');
 
-function clean() {
+function setup() {
     rimraf.sync(path.resolve(__dirname, '../out'));
+    fs.mkdirSync(path.resolve(__dirname, '../out'));
 }
 
-async function generate() {
-    fs.mkdirSync(path.resolve(__dirname, '../out'));
-
+async function generateHtmlFiles() {
     const htmlTemplate = await fsPromises.readFile(
         path.resolve(__dirname, './template/template.hbs'), { encoding: 'utf8' }
-    );
-
-    const githubStyle = await githubMarkdownCss();
-
-    await fsPromises.writeFile(
-        path.resolve(__dirname, `../out/github-markdown.css`), 
-        githubStyle,
-        { encoding: 'utf8' }
     );
 
     fs.readdirSync(path.resolve(__dirname, '../data')).forEach(async (file) => {
@@ -42,6 +32,21 @@ async function generate() {
     });
 }
 
+async function generateIndex() {
+    const htmlTemplate = await fsPromises.readFile(
+        path.resolve(__dirname, './template/index.hbs'), { encoding: 'utf8' }
+    );
+
+    const entries = fs.readdirSync(path.resolve(__dirname, '../data')).map((file) => file.replace('.md', ''));
+    const template = Handlebars.compile(htmlTemplate);
+    
+    await fsPromises.writeFile(
+        path.resolve(__dirname, '../out/index.html'), 
+        template({ entries })
+    );
+    console.log('generated index file');
+}
+
 async function copyResumeToRoot() {
     await fsPromises.copyFile(
         path.resolve(__dirname, '../data/resume.md'),
@@ -49,8 +54,24 @@ async function copyResumeToRoot() {
     );
 }
 
+async function copyGithubStyle() {
+    await fsPromises.copyFile(
+        path.resolve(__dirname, '../node_modules/github-markdown-css/github-markdown.css'),
+        path.resolve(__dirname, '../out/github-markdown.css')
+    );
+}
+
 (async function main() {
-    clean();
-    await generate();
-    await copyResumeToRoot();
+    try {
+        setup();
+        Promise.all([
+            await copyGithubStyle(),
+            await generateHtmlFiles(),
+            await generateIndex(),
+            await copyResumeToRoot(),
+        ]);
+    } catch (e) {
+        console.error(e);
+        process.exit(1);
+    }
 })();
