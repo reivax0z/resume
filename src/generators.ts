@@ -1,22 +1,21 @@
-const fs = require('fs');
+import fs from 'fs';
 const fsPromises = fs.promises;
-const path = require('path');
-const rimraf = require('rimraf');
-const Handlebars = require('handlebars');
-const marked = require('marked');
+import path from 'path';
+import rimraf from 'rimraf';
+import Handlebars from 'handlebars';
+import marked from 'marked';
 
 function setup() {
-    rimraf.sync(path.resolve(__dirname, '../out'));
-    fs.mkdirSync(path.resolve(__dirname, '../out'));
+    rimraf.sync(path.resolve(__dirname, '../generated'));
+    fs.mkdirSync(path.resolve(__dirname, '../generated'));
 }
 
 async function generateHtmlFiles() {
     const htmlTemplate = await fsPromises.readFile(
-        path.resolve(__dirname, './template/template.hbs'), { encoding: 'utf8' }
+        path.resolve(__dirname, '../templates/template.hbs'), { encoding: 'utf8' }
     );
 
     fs.readdirSync(path.resolve(__dirname, '../data')).forEach(async (file) => {
-        console.log(`handling file: ${file}`);
 
         const template = Handlebars.compile(htmlTemplate);
         const contentMd = await fsPromises.readFile(
@@ -25,23 +24,33 @@ async function generateHtmlFiles() {
         const contentHtml = marked(contentMd);
 
         await fsPromises.writeFile(
-            path.resolve(__dirname, `../out/${file.replace('.md', '.html')}`), 
+            path.resolve(__dirname, `../generated/${file.replace('.md', '.html')}`), 
             template({ content: contentHtml })
         );
         console.log(`handled file: ${file}`);
     });
 }
 
-async function generateIndex() {
+async function renderHtml(data: string, templatefile: string) {
     const htmlTemplate = await fsPromises.readFile(
-        path.resolve(__dirname, './template/index.hbs'), { encoding: 'utf8' }
+        path.resolve(__dirname, `../templates/${templatefile}`), { encoding: 'utf8' }
     );
 
-    const entries = fs.readdirSync(path.resolve(__dirname, '../data')).map((file) => file.replace('.md', ''));
+    const template = Handlebars.compile(htmlTemplate);
+
+    return template({ data });
+}
+
+async function generateIndex() {
+    const htmlTemplate = await fsPromises.readFile(
+        path.resolve(__dirname, '../templates/index.hbs'), { encoding: 'utf8' }
+    );
+
+    const entries = fs.readdirSync(path.resolve(__dirname, '../data')).map((file: string) => file.replace('.md', ''));
     const template = Handlebars.compile(htmlTemplate);
     
     await fsPromises.writeFile(
-        path.resolve(__dirname, '../out/index.html'), 
+        path.resolve(__dirname, '../generated/index.html'), 
         template({ entries })
     );
     console.log('generated index file');
@@ -57,21 +66,15 @@ async function copyResumeToRoot() {
 async function copyGithubStyle() {
     await fsPromises.copyFile(
         path.resolve(__dirname, '../node_modules/github-markdown-css/github-markdown.css'),
-        path.resolve(__dirname, '../out/github-markdown.css')
+        path.resolve(__dirname, '../generated/github-markdown.css')
     );
 }
 
-(async function main() {
-    try {
-        setup();
-        Promise.all([
-            await copyGithubStyle(),
-            await generateHtmlFiles(),
-            await generateIndex(),
-            await copyResumeToRoot(),
-        ]);
-    } catch (e) {
-        console.error(e);
-        process.exit(1);
-    }
-})();
+export {
+    generateHtmlFiles,
+    generateIndex,
+    copyGithubStyle,
+    copyResumeToRoot,
+    renderHtml,
+    setup,
+}
