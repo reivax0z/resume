@@ -46,7 +46,11 @@ ___
 
 Working across the CLI, lifecycle and invocation services of the Forge platform.
 
-**DAC ([developer.atlassian.com](developer.atlassian.com))**
+More information about [Forge](https://developer.atlassian.com/platform/forge/)
+
+**DAC (developer resources website)**
+
+Internal tools to help teams generate and onboard their documentations to the [DAC](developer.atlassian.com) website.
 
 ### Versent - Senior Software Engineer 
 `Sydney, AUS | 2018-2019`
