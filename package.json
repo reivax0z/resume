@@ -27,7 +27,7 @@
     "express": "^4.17.1",
     "github-markdown-css": "^3.0.1",
     "handlebars": "^4.7.0",
-    "marked": "^0.8.0",
+    "marked": "^4.0.10",
     "rimraf": "^3.0.0",
     "typescript": "^3.7.5",
     "uuid": "^3.3.3"
