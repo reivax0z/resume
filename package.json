@@ -24,7 +24,7 @@
     "@types/marked": "^0.7.2",
     "@types/node": "^13.1.8",
     "@types/rimraf": "^2.0.3",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "github-markdown-css": "^3.0.1",
     "handlebars": "^4.7.0",
     "marked": "^0.8.0",
